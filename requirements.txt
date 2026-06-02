@@ -1,0 +1,20 @@
+# YMH340 Veri Madenciliği Projesi — Python bağımlılıkları
+# Kurulum:  pip install -r requirements.txt
+
+# --- Çekirdek veri madenciliği hattı (main.py için zorunlu) ---
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+joblib>=1.3
+tabulate>=0.9          # tabloların Markdown olarak da kaydedilmesi için
+
+# --- Nihai raporun (.docx) üretilmesi için (report/generate_report.py) ---
+python-docx>=1.1
+
+# --- (İsteğe bağlı) Raporu PDF'e çevirip önizlemek için ---
+# docx2pdf gerçek Microsoft Word kurulumu gerektirir (yalnızca Windows/Mac).
+# pymupdf ise PDF'i görüntüye çevirmek için kullanılabilir.
+# docx2pdf>=0.1.8
+# pymupdf>=1.23

@@ -1,0 +1,17 @@
+| sutun             |   alt_sinir |   ust_sinir |   aykiri_sayi |   aykiri_yuzde |
+|:------------------|------------:|------------:|--------------:|---------------:|
+| home_shots        |       -0.5  |       27.5  |           760 |           1.27 |
+| away_shots        |       -3.5  |       24.5  |           483 |           0.81 |
+| home_shots_target |       -3    |       13    |           501 |           0.85 |
+| away_shots_target |       -4    |       12    |           271 |           0.46 |
+| home_corners      |       -3    |       13    |           795 |           1.34 |
+| away_corners      |       -1.5  |       10.5  |          1514 |           2.55 |
+| home_fouls        |        1    |       25    |           715 |           1.23 |
+| away_fouls        |       -0.5  |       27.5  |           427 |           0.74 |
+| home_yellow       |       -2    |        6    |           177 |           0.3  |
+| away_yellow       |       -2    |        6    |           292 |           0.49 |
+| home_red          |        0    |        0    |          5459 |           9.13 |
+| away_red          |        0    |        0    |          7053 |          11.8  |
+| odds_home         |       -0.03 |        4.5  |          8141 |          10.2  |
+| odds_draw         |        2.12 |        5.12 |          7537 |           9.44 |
+| odds_away         |       -1.25 |        8.75 |          7658 |           9.6  |

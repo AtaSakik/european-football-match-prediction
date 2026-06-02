@@ -1,0 +1,34 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Sanal ortamlar (virtual environments) ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Eğitilmiş model ikilileri (main.py ile yeniden üretilebilir) ---
+outputs/models/*.joblib
+
+# --- Rapor render artıkları ---
+report/_preview/
+*.tmp
+
+# --- İşletim sistemi ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE / editör ---
+.idea/
+.vscode/
+*.swp
