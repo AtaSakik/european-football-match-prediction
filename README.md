@@ -127,7 +127,7 @@ which is why the analysis was implemented in Python.
 |---|------|------|
 | 1 | **Ata Sakik** | Data preprocessing & cleaning, target derivation |
 | 2 | **Taha Furkan Tosun** | Feature selection & correlation analysis |
-| 3 | **Yunus Emre Arslan** | Model setup & training |
+| 3 | **Yunus Emre Aslan** | Model setup & training |
 
 ---
 
